@@ -2,10 +2,10 @@
 I'm a passionate full-stack developer with experience in building scalable web apps using **React**, **Node.js**, and **MongoDB**.  
 I love clean code, pixel-perfect UI, and turning ideas into products.
 
-- 🔭 Currently working on: [Your current project]
+- 🔭 Currently working on: 
 - 🌱 Learning: TypeScript, GraphQL, and DevOps workflows
 - 💬 Ask me about: MERN stack, REST APIs, and frontend performance
-- 📫 Reach me at: [your email or LinkedIn]
+- 📫 Reach me at: anishdassatoffice@gmail.com
 
 <!--
 **anishdass/Anishdass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
