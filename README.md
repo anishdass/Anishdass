@@ -2,7 +2,7 @@
 I'm a passionate full-stack developer with experience in building scalable web apps using **React**, **Node.js**, and **MongoDB**.  
 I love clean code, pixel-perfect UI, and turning ideas into products.
 
-- 🔭 Currently working on: Prescripto
+- 🔭 Currently working on: GreenCart
 - 🌱 Learning: TypeScript, GraphQL, and DevOps workflows
 - 💬 Ask me about: MERN stack, REST APIs, and frontend performance
 - 📫 Reach me at: anishdassatoffice@gmail.com
